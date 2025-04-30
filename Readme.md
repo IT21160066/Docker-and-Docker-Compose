@@ -72,9 +72,3 @@ In **Mongo Express**, create:
 
 Open in your browser:  
 [http://localhost:3000](http://localhost:3000)
-
-- Prefix - folder name
-- Suffix - No of instances
-- ✔ Network dockercompose_default Created
-- ✔ Container dockercompose-mongodb-1 Created
-- ✔ Container dockercompose-mongo-express-1 Created
